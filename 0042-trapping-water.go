@@ -44,7 +44,7 @@ func trappingWater(heights []int) int {
 
 }
 
-func main() {
-	heights := []int{4, 2, 0, 3, 2, 5}
-	fmt.Println(trappingWater(heights))
-}
+// func main() {
+// 	heights := []int{4, 2, 0, 3, 2, 5}
+// 	fmt.Println(trappingWater(heights))
+// }
